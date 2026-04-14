@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/vs_code_files/web%20development/tutorial_136/bitlinks/app/poppins_8111b4d5.module.css"],"sourcesContent":["@font-face {\n    \nfont-family: 'poppins';\n    src: url('@vercel/turbopack-next/internal/font/local/font?{%22path%22:%22./fonts/Poppins-ExtraBold.ttf%22,%22preload%22:true,%22has_size_adjust%22:true}') format('truetype');\n    font-display: swap;\n    \nfont-weight: 100 900;\n}\n\n@font-face {\n    font-family: 'poppins Fallback';\n    src: local(\"Arial\");\n    ascent-override: 88.85%;\ndescent-override: 29.62%;\nline-gap-override: 8.46%;\nsize-adjust: 118.17%;\n\n}\n\n.className {\n    font-family: 'poppins', 'poppins Fallback';\n    \n}\n.variable {\n    --font-poppins: 'poppins', 'poppins Fallback';\n}\n\n"],"names":[],"mappings":"AAAA;;;;;;;AASA;;;;;;;;;AAUA;;;;AAIA"}}]
+}

@@ -1,0 +1,26 @@
+/* [project]/app/poppins_8111b4d5.module.css [app-client] (css) */
+@font-face {
+  font-family: poppins;
+  src: url("../media/Poppins_ExtraBold-s.p.5100d422.ttf") format("truetype");
+  font-display: swap;
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: poppins Fallback;
+  src: local(Arial);
+  ascent-override: 88.85%;
+  descent-override: 29.62%;
+  line-gap-override: 8.46%;
+  size-adjust: 118.17%;
+}
+
+.poppins_8111b4d5-module__59vroq__className {
+  font-family: poppins, poppins Fallback;
+}
+
+.poppins_8111b4d5-module__59vroq__variable {
+  --font-poppins: "poppins", "poppins Fallback";
+}
+
+/*# sourceMappingURL=app_poppins_8111b4d5_module_257b32ad.css.map*/
